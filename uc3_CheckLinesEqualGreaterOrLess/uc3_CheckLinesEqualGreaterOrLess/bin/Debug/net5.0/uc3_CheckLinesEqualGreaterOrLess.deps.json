@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "uc3_CheckLinesEqualGreaterOrLess/1.0.0": {
+        "runtime": {
+          "uc3_CheckLinesEqualGreaterOrLess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uc3_CheckLinesEqualGreaterOrLess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
