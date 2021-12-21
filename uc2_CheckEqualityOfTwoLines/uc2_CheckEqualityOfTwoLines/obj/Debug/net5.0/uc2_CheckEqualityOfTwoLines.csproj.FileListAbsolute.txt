@@ -1,0 +1,32 @@
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.exe
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\ref\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\ref\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.pdb
+C:\Users\My Laptop\Desktop\BrProjects\Line Camparison Problem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.genruntimeconfig.cache
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.exe
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\ref\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\bin\Debug\net5.0\uc2_CheckEqualityOfTwoLines.pdb
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\ref\uc2_CheckEqualityOfTwoLines.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.pdb
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc2_CheckEqualityOfTwoLines\uc2_CheckEqualityOfTwoLines\obj\Debug\net5.0\uc2_CheckEqualityOfTwoLines.genruntimeconfig.cache
