@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7413fcdf-984f-42b6-8c0b-92d014c7599a": {
+      "ProjectGuid": "7413fcdf-984f-42b6-8c0b-92d014c7599a",
+      "DisplayName": "uc3_CheckLinesEqualGreaterOrLess",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
