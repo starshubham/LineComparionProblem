@@ -1,0 +1,16 @@
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\bin\Debug\net5.0\uc4_OOPLineAndCompareToMethod.exe
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\bin\Debug\net5.0\uc4_OOPLineAndCompareToMethod.deps.json
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\bin\Debug\net5.0\uc4_OOPLineAndCompareToMethod.runtimeconfig.json
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\bin\Debug\net5.0\uc4_OOPLineAndCompareToMethod.runtimeconfig.dev.json
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\bin\Debug\net5.0\uc4_OOPLineAndCompareToMethod.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\bin\Debug\net5.0\ref\uc4_OOPLineAndCompareToMethod.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\bin\Debug\net5.0\uc4_OOPLineAndCompareToMethod.pdb
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.csproj.AssemblyReference.cache
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.AssemblyInfoInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.AssemblyInfo.cs
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\ref\uc4_OOPLineAndCompareToMethod.dll
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.pdb
+C:\Users\My Laptop\Desktop\BrProjects\LineCamparisonProblem\uc4_OOPLineAndCompareToMethod\uc4_OOPLineAndCompareToMethod\obj\Debug\net5.0\uc4_OOPLineAndCompareToMethod.genruntimeconfig.cache
